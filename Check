@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaibha Foods - Home Cooked Delights</title>
+    <style>
+        /* Basic CSS for styling */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f7f7f7;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .menu-item {
+            margin-bottom: 15px;
+        }
+        .testimonial {
+            border-left: 4px solid #333;
+            padding-left: 10px;
+            margin-bottom: 15px;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+        .location {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to Vaibha Foods!</h1>
+            <p>Your destination for delicious homemade food catering in Clappana P.O, Kollam, Kerala.</p>
+        </header>
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>At Vaibha Foods, we specialize in providing homemade food catering services for a variety of occasions:</p>
+            <ul>
+                <li>Family Gatherings</li>
+                <li>Corporate Events</li>
+                <li>Birthday Parties</li>
+                <li>Weddings</li>
+                <li>And more...</li>
+            </ul>
+        </section>
+        <section id="menu">
+            <h2>Our Menu</h2>
+            <p>Explore our delicious homemade dishes, prepared with love and care:</p>
+            <div class="menu-item">
+                <h3>Appetizers</h3>
+                <p>- Insert your appetizers menu here -</p>
+            </div>
+            <div class="menu-item">
+                <h3>Main Courses</h3>
+                <p>- Insert your main courses menu here -</p>
+            </div>
+            <div class="menu-item">
+                <h3>Desserts</h3>
+                <p>- Insert your desserts menu here -</p>
+            </div>
+        </section>
+        <section id="testimonials">
+            <h2>Testimonials</h2>
+            <div class="testimonial">
+                <p>"The food from Vaibha Foods made our family gathering truly special. Highly recommend!"</p>
+                <p>- Happy Customer</p>
+            </div>
+            <div class="testimonial">
+                <p>"The personalized service and delicious dishes exceeded our expectations. Thank you!"</p>
+                <p>- Another Happy Customer</p>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Ready to order? Contact us today to discuss your catering needs:</p>
+            <div class="contact-info">
+                <p>Phone: +918289840973</p>
+                <p>Email: vaibhafoods@gmail.com</p>
+                <p>Address: Clappana P.O, Kollam, Kerala</p>
+            </div>
+        </section>
+        <section class="location">
+            <h2>Location</h2>
+            <p>We are located in Clappana P.O, Kollam, Kerala. Visit us or contact us for delivery options.</p>
+        </section>
+        <footer>
+            <p>&copy; 2024 Vaibha Foods. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
